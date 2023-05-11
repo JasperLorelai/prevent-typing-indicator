@@ -1,18 +1,18 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "eu.jasperlorelai.PreventTypingIndicator",
+  "name": "prevent-typing-indicator",
+  "description": "A Replugged plugin that toggle's the channel typing indicator.",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "JasperLorelai",
+    "discordID": "192710597106728960",
+    "github": "prevent-typing-indicator"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "JasperLorelai/prevent-typing-indicator"
   },
-  "license": "MIT",
+  "license": "ISC",
   "type": "replugged-plugin",
   "renderer": "src/index.ts"
 }
